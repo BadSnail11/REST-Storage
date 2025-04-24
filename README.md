@@ -4,6 +4,9 @@
 
 HTTP-клиент: Postman
 
+Запускаем сервер с REST API:
+![alt text](capture_20250424195436379.bmp)
+
 Команда PUT с выбранным локальным файлом:
 ![alt text](capture_20250424190634067.bmp)
 
